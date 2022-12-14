@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IgorMH&label=Profile%20views&color=0e75b6&style=flat" alt="IgorMH" /> </p>
 
-- 🔭 Buscando oportunidades como **Engenheiro de Dados** 
+- 🔭 Trabalhando como **Engenheiro de Dados** na BlueShift Brasil
 
-- 🌱 Atualmente aprendendo **Python, SQL, AWS e Airflow**
+- 🌱 Atualmente aprendendo **Python, SQL, Azure e Airflow**
 
 - 📫 Para entrar em contato **igor-mh@hotmail.com**
 
